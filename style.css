@@ -116,9 +116,8 @@ https://codepen.io/chungchloe/pen/gOwJGzz*/
   }
 
   .sonrisa {
-    position: absolute;
-    left: 40%;
-    top: 50%;
+    position: relative;
+    bottom: -7rem; left: -8rem;
   }
 
 
